@@ -107,5 +107,5 @@ def run_log_reg(train_features, test_features, y_train, y_test,  alpha = 1e-4, c
     if verbose:
         print('F1: {:.3f} | Pr: {:.3f} | Re: {:.3f} | AUC: {:.3f} | Accuracy: {:.3f} \n'.format(*metrics))
     if return_f1:
-        return f1
+        return metrics[0]
     return log_reg
