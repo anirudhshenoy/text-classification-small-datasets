@@ -1,6 +1,6 @@
 # Text Classification With Extremely Small Datasets
 
-Accompanying blog : <URL>
+Accompanying blog : https://towardsdatascience.com/text-classification-with-extremely-small-datasets-333d322caee2
 
 ## Credits:
 
